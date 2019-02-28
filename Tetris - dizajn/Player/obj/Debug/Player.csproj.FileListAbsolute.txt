@@ -1,0 +1,11 @@
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\Player\bin\Debug\Player.dll
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\Player\bin\Debug\Player.pdb
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\Player\obj\Debug\Player.dll
+C:\Users\Toshiba Satellite\documents\visual studio 2013\Projects\Tetris - dizajn\Player\obj\Debug\Player.pdb
+D:\Projekti\Tetris - dizajn\Player\bin\Debug\Player.dll
+D:\Projekti\Tetris - dizajn\Player\bin\Debug\Player.pdb
+D:\Projekti\Tetris - dizajn\Player\obj\Debug\Player.dll
+D:\Projekti\Tetris - dizajn\Player\obj\Debug\Player.pdb
+D:\Projekti\Tetris - dizajn\Player\obj\Debug\Player.csprojAssemblyReference.cache
+D:\Projekti\Tetris - dizajn\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
